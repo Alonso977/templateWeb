@@ -170,7 +170,7 @@
       <workItem from="1609986599766" duration="245000" />
       <workItem from="1610066001008" duration="3658000" />
       <workItem from="1610155038673" duration="15552000" />
-      <workItem from="1610406881263" duration="705000" />
+      <workItem from="1610406881263" duration="2036000" />
     </task>
     <servers />
   </component>
@@ -193,6 +193,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="262" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1609986831934" />
+    <state x="780" y="222" key="RollbackChangesDialog" timestamp="1610407744656">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="780" y="222" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610407744656" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1610407703879">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1610407703879" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610407711707">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1610407711707" />
     <state x="667" y="224" width="585" height="592" key="find.popup" timestamp="1610298125871">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
