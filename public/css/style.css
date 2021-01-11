@@ -1,0 +1,275 @@
+/*Estilos generales*/
+html {
+    min-height: 100%;
+    position: relative;
+}
+
+body {
+    margin: 0;
+}
+
+.bg-principal {
+    background: #243f5e;
+    color: #fff;
+}
+
+.bg-second {
+    background: #6c7ae0 !important;
+    color: #fff;
+}
+
+.text-color {
+    color: #243f5e;
+}
+
+/*FIN Estilos generales*/
+
+
+/*=======================================================Estilos para el HOME==========================================================================*/
+
+
+/*Apartado para dispositivos pequeños*/
+@media (max-width: 767.98px) {
+
+
+}
+
+/*Apartado para dispositivos medianos*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+
+}
+
+/*Apartado para dispositivos grandes*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+}
+
+/*Apartado para dispositivos xl*/
+@media (min-width: 1200px) {
+
+}
+
+
+/*Estilos para el carrousel*/
+/*=======================================================Estilos para el HOME==========================================================================*/
+
+/*=======================================================Estilos para el NAVBAR==========================================================================*/
+.__content-head {
+    background-color: #fff;
+}
+
+#nav {
+    background-color: #fff;
+    width: 100%;
+}
+
+.__navbar-btncontact {
+    display: none;
+}
+
+.__content-btnContact {
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    color: #243f5e;
+}
+
+.search-input {
+    border-bottom: 2px solid black;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-radius: 0;
+}
+
+/*Apartado para dispositivos pequeños*/
+@media (max-width: 767.98px) {
+    /*Estilos para el titulo del sitio que pertenece al navbar*/
+    .__content-img p {
+        font-size: 12px;
+        color: #1b3a6d;
+        text-align: left;
+    }
+
+    /*Estilos para la imagen del sitio que pertenece al navbar*/
+    .__content-img img {
+        width: 50px;
+        height: 80px;
+        margin: 30px 15px 40px 50px !important
+    }
+
+    .__content-head {
+        position: relative;
+    }
+
+    .__content-head a {
+        position: absolute;
+        align-items: center;
+    }
+
+    .__content-btnContact {
+        display: none;
+    }
+
+    .__navbar-btncontact {
+        display: inline-block;
+    }
+
+    /*Estilos para posicionar el boton en el navbar*/
+    #toogleBoton {
+        margin-top: 15px;
+    }
+
+    main {
+        margin-bottom: 60%;
+        margin-top: 20px;
+    }
+}
+
+/*Apartado para dispositivos mediamos*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+    /*Estilos para el titulo del sitio que pertenece al navbar*/
+    .__content-img p {
+        font-size: 12px;
+        color: #243f5e;
+    }
+
+    /*Estilos para la imagen del sitio que pertenece al navbar*/
+    .__content-img img {
+        width: 50px;
+        height: 80px;
+        margin: 30px 15px 40px 50px !important
+    }
+
+    /*Estilos para posicionar el boton en el navbar*/
+    #toogleBoton {
+        margin-top: 15px;
+    }
+
+    main {
+        margin-bottom: 40%;
+        margin-top: 20px;
+    }
+}
+
+/*Apartado para dispositivos grandes*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    /*Estilos para el titulo del sitio que pertenece al navbar*/
+    .nav-link {
+        font-size: 13px;
+    }
+
+    /*Estilos para la imagen del sitio que pertenece al navbar*/
+    .__content-img img {
+        float: left;
+        width: 60px;
+        height: 92px;
+    }
+
+    .__content-img p {
+        font-size: 15px;
+        color: #243f5e;
+        margin: 45px 0 0 -30px;
+    }
+
+    main {
+        margin-bottom: 20%;
+        margin-top: 20px;
+    }
+}
+
+/*Apartado para dispositivos xl*/
+@media (min-width: 1200px) {
+    main {
+        margin-bottom: 20%;
+        margin-top: 20px;
+    }
+}
+
+/*=======================================================FIN Estilos para el NAVBAR==========================================================================*/
+
+/*=======================================================Estilos para el FOOTER==========================================================================*/
+#footer {
+    background-color: #243f5e;
+    bottom: 0 !important;
+    position: absolute;
+    width: 100%;
+    height: 200px;
+    color: white;
+}
+
+/*Clase para poner iconos blancos*/
+.iconWhite {
+    color: white;
+}
+
+/*Clae para poner iconos azules*/
+.iconBlue {
+    color: #1b3a6d;
+    margin-bottom: 5px;
+}
+
+.phone-i {
+    transform: rotate(90deg);
+}
+
+/*Estilos para los derechos en el footer*/
+#titleCopy {
+    color: white;
+}
+
+/*Estilo para la dirección en el footer*/
+#addressFooter {
+    color: white;
+}
+
+/*Estilos para los iconos en el footer*/
+.iconCopy {
+    color: white;
+    font-size: 40px;
+}
+
+/*Apartado para dispositivos pequeños*/
+@media (max-width: 767.98px) {
+    /*Titulo del footer*/
+    #titleFooter {
+        font-size: 16px;
+        color: white;
+    }
+
+    #addressFooter {
+        color: black;
+    }
+}
+
+/*Apartado para dispositivos mediamos*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+    /*Titulo del footer*/
+    #titleFooter {
+        color: white;
+    }
+}
+
+/*Apartado para dispositivos grandes*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    /*Titulo del footer*/
+    #titleFooter {
+        color: white;
+    }
+
+    #contentFooter {
+        width: 80vw;
+        margin-left: 10vw;
+    }
+}
+
+/*Apartado para dispositivos xl*/
+@media (min-width: 1200px) {
+    /*Titulo del footer*/
+    #titleFooter {
+        color: white;
+    }
+}
+
+/*=======================================================FIN Estilos para el FOOTER==========================================================================*/
