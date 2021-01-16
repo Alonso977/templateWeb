@@ -7,10 +7,37 @@
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:adjustment" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d300d2c9-7ced-420d-8892-5a76c2647b84" name="Default Changelist" comment="" />
+    <list default="true" id="d300d2c9-7ced-420d-8892-5a76c2647b84" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/css/carousel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/owl.carousel.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/owl.theme.default.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/work-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/work-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/work-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/work-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/work-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/popper.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/home/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/home/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layout/footer.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layout/footer.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layout/login.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layout/nav.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layout/nav.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/partials/master.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/partials/master.blade.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +48,11 @@
     <execution />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
@@ -142,15 +174,17 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/js" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\flacsoWeb\public\js" />
+      <recent name="C:\xampp\htdocs\flacsoWeb\public\css" />
+      <recent name="C:\xampp\htdocs\flacsoWeb\public" />
       <recent name="C:\xampp\htdocs\flacsoWeb\public\img" />
       <recent name="C:\xampp\htdocs\flacsoWeb\resources\views" />
-      <recent name="C:\xampp\htdocs\flacsoWeb\public" />
     </key>
   </component>
   <component name="RunManager">
@@ -170,7 +204,9 @@
       <workItem from="1609986599766" duration="245000" />
       <workItem from="1610066001008" duration="3658000" />
       <workItem from="1610155038673" duration="15552000" />
-      <workItem from="1610406881263" duration="2951000" />
+      <workItem from="1610406881263" duration="3047000" />
+      <workItem from="1610573765269" duration="18140000" />
+      <workItem from="1610747660826" duration="14638000" />
     </task>
     <servers />
   </component>
@@ -182,11 +218,24 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="adjustment" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="740" y="262" key="FileChooserDialogImpl" timestamp="1609986831934">
@@ -197,10 +246,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="780" y="222" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610407744656" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1610407703879">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1610582976043">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1610407703879" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1610582976043" />
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610407711707">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -209,6 +258,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="667" y="224" width="585" height="592" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1610298125871" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1610749894555">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1610749894555" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1610407134078">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

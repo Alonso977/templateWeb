@@ -6,7 +6,9 @@
             <div class="col-md-6 mt-md-0 mt-3">
                 <p class="font-weight-bold" id="titleFooter">Facultad Latinoamericana de Ciencias Sociales</p>
                 <p id="titleCopy">©FLACSO 2020</p>
-                <i class="fas fa-envelope fa-3x iconCopy"></i>
+                <i class="fas fa-envelope fa-3x iconCopy m-2"></i>
+                <i class="fab fa-facebook-f fa-3x iconCopy m-2"></i>
+                <i class="fab fa-twitter fa-3x iconCopy m-2"></i>
             </div>
 
 

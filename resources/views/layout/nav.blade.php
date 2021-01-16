@@ -52,7 +52,7 @@
                 </form>
             </div>
         </nav>
-        <main class="py-4 mx-5">
+        <main class="py-4 ">
             @yield('public-content')
         </main>
 
